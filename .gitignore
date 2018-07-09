@@ -1,5 +1,6 @@
 /source
 /events
+/events.*
 /always
 /data/*.dat
 /data/*.bin
