@@ -6,3 +6,4 @@
 /data/*.bin
 /data/const_BG_black.csv
 /data/const_BG_white.csv
+/unzip
