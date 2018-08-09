@@ -1,8 +1,8 @@
 Name,Value,Comment
 PS_Interface,SN,PS Interface via File or COM or UDP or SN.
-ZOOM_FACTOR,1000,Zooming factor of draws.(1000 for 50 meter or 100 for 5 meter)
+ZOOM_FACTOR,600,Zooming factor of draws.(1000 for 50 meter or 100 for 5 meter)
 ROTATE_FACTOR,315.0,Rotate factor of draws for 45.0 or 135.0 or 225.0 or 315.0
-MIRROR_ENABLE,false,Mirroring or not.(true or false)
+MIRROR_ENABLE,true,Mirroring or not.(true or false)
 #,,
 #Possible ROTATE_FACTOR and MIRROR_ENABLE options for sensor direction,,
 #for top right,,
