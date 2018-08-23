@@ -4,6 +4,8 @@
 /always
 /data/*.dat
 /data/*.bin
+/data_default/*.dat
+/data_default/*.bin
 /data/const_BG_black.csv
 /data/const_BG_white.csv
 /unzip
